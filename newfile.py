@@ -22,4 +22,4 @@ w = Label(root, text=str(uname.system) + " " + str(uname.release) + " " + str(un
 w.pack()
 canvas.create_image(0,0, anchor=NW, image=img2)
 canvas.create_image(0,0, anchor=NW, image=img)  
-mainloop()   
+mainloop()
